@@ -1,4 +1,3 @@
-C:\Users\ankit\Software\Installation\Python366_64\python.exe C:/Users/ankit/Workspaces/CS7150/FinalProject/dcgan.py
 Random Seed:  999
 Discriminator(
   (main): Sequential(
